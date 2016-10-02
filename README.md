@@ -10,7 +10,7 @@ Copy the `anylink` folder to `system/expressionengine/third_party` on your serve
 
 Simply use the following template tag, where the `secs` parameter denotes the length of the delay in seconds.
 
-{exp:sleep:for secs="5"}
+`{exp:sleep:for secs="5"}`
 
 ## License
 
